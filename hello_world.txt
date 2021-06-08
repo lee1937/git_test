@@ -1,0 +1,2 @@
+Hello world! I made this using vim because I learned this godforsaken tiny 
+editor and college and I WILL use it for trivial shit like this
